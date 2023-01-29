@@ -25,8 +25,8 @@
 
 ## Building
 ```
-git clone https://github.com/powerof3/po3-Tweaks.git
-cd po3-Tweaks
+git clone https://github.com/924517905/ProtectNPC.git
+cd ProtectNPC
 # pull commonlib /extern to override the path settings
 git submodule init
 # to update submodules to checked in build
