@@ -1,0 +1,15 @@
+{
+  "name": "po3tweaks",
+  "version-string": "1.7.5",
+  "description": "Protect NPC for Skyrim SE/AE/VR",
+  "homepage": "https://github.com/924517905/ProtectNPC",
+  "license": "MIT",
+  "dependencies": [
+    "boost-stl-interfaces",
+    "robin-hood-hashing",
+    "rsm-binary-io",
+    "simpleini",
+    "spdlog",
+    "xbyak"
+  ]
+}
